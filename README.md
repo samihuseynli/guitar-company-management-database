@@ -19,36 +19,6 @@ The project includes the complete database design process, from conceptual model
 
 ---
 
-## ✨ Features
-
-- Relational database design
-- Conceptual Entity-Relationship (ER) model
-- SQL database creation scripts
-- Sample data population
-- Collection of SQL queries demonstrating data retrieval and analysis
-- Real-world business scenario
-
----
-
-## 🗂 Repository Structure
-
-```
-guitar-company-database/
-│
-├── README.md
-│
-├── schema/
-│   └── conceptual_schema.png
-│
-├── sql/
-│   ├── create_tables.sql
-│   ├── insert_data.sql
-│   └── queries.sql
-│
-└── documentation/
-    └── project_report.pdf
-```
-
 ---
 
 ## 🛠 Technologies
@@ -80,7 +50,7 @@ The entities are connected through relationships that model the company's operat
 
 ## 📈 SQL Functionality
 
-The project contains approximately **35 SQL queries**, including:
+The project contains approximately 35 SQL queries, including:
 
 - Data retrieval
 - Filtering
@@ -91,40 +61,8 @@ The project contains approximately **35 SQL queries**, including:
 - Deletes
 - Views
 
-Example tasks include:
-
-- Finding customers and clients
-- Listing guitar information
-- Retrieving teacher data
-- Displaying equipment prices
-- Updating product prices
-- Creating SQL views
-
 ---
 
-## 🖼 Conceptual Schema
-
-The repository includes the conceptual ER diagram used during database design.
-
-*(Insert the schema image below if GitHub doesn't display it automatically.)*
-
-![Conceptual Schema](schema/conceptual_schema.png)
-
----
-
-## 🎯 Learning Outcomes
-
-This project demonstrates practical experience with:
-
-- Relational database modeling
-- Primary and foreign keys
-- Entity relationships
-- SQL scripting
-- Database normalization
-- Query optimization concepts
-
----
-
-## 👨‍🎓 Academic Project
+##  Academic Project
 
 This repository contains coursework completed for a university **Database Systems** class and is shared as part of my software engineering portfolio.

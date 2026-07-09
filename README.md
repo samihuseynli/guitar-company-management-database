@@ -1,4 +1,4 @@
-# Guitar Company Database
+# Guitar Company Management Database
 
 A relational database system designed for managing the operations of a guitar company. The project models both the company's guitar shops and guitar courses, including employees, customers, teachers, clients, products, equipment, and their relationships.
 
